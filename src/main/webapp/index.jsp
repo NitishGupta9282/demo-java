@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World: src/main/webapp/index.jsp</h2>
+<h2>Hi Sir. My Name is Nitish. This is just a demo project</h2>
 </body>
 </html>
